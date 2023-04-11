@@ -1,4 +1,4 @@
-# coastrial
+# Pixie
 
 A new Flutter project.
 
